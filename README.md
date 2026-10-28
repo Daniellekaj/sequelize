@@ -79,5 +79,5 @@ Please find upgrade information to major versions here:
 
 ## :warning: Responsible disclosure
 
-If you have security issues to report, please refer to our
+If you have security issues to report, please referee to our
 [Responsible Disclosure Policy](./SECURITY.md) for more details.
